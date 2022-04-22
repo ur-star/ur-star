@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ur-star
 - 👀 I’m interested in desigining
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and blockchain Dapp development.
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me ...
 jokerjones66@gmail.com
