@@ -9,7 +9,8 @@ I am innovative fresher web developer.
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [uroyofficial@gmail.com](mailto:uroyofficial@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Blockchain
+* 🤝  I'm open to collaborating on Blockchain and Web development
+  
 
 ### Skills
 
